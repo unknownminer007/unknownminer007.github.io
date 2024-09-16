@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Xbomber is the pioneer of sms and call bombers in Bangladesh. For a long time, this was a closed source project. But we ***Team X 1337*** have decided to make it open source so that everyone can gain knowledge from this project and create their own project from this github template. You can contribute by providing this project working APIs and removing the dead APIs. For more about contributing, follow the <a href="#contributing">Contributing</a> section.
+Xbomber is the pioneer of sms and call bombers in Bangladesh. For a long time, this was a closed source project. But we ***UNKNOWN MINER*** have decided to make it open source so that everyone can gain knowledge from this project and create their own project from this github template. You can contribute by providing this project working APIs and removing the dead APIs. For more about contributing, follow the <a href="#contributing">Contributing</a> section.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
